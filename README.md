@@ -1,3 +1,11 @@
+# Identifying Information
+
+Name: Gabriel Garcia
+Student ID: 2344584
+Email: gagarcia@chapman.edu
+Class: CPSC 298 Linux and Unix
+Assignment: cars
+
 # Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
