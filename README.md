@@ -1,10 +1,10 @@
-# Identifying Information
+# Identifying Information:
 
-Name: Gabriel Garcia
-Student ID: 2344584
-Email: gagarcia@chapman.edu
-Class: CPSC 298 Linux and Unix
-Assignment: cars
+1. Name: Gabriel Garcia
+2. Student ID: 2344584
+3. Email: gagarcia@chapman.edu
+4. Class: CPSC 298 Linux and Unix
+5. Assignment: cars
 
 # Application Purpose
 
